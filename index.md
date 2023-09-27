@@ -16,7 +16,7 @@ A list of publications is available in [Google Scholar](https://scholar.google.e
 
 ### Work Experience
 
-- **2021-**___Now___: Research Software Engineer, Aeronautics Advanced Manufacturing Centre ([CFAA](https://cfaa.eus/)).
+- **2021-**___Now___ : Research Software Engineer, Aeronautics Advanced Manufacturing Centre ([CFAA](https://cfaa.eus/)).
 
 ### Education
 
