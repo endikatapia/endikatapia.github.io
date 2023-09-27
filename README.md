@@ -1,1 +1,0 @@
-# endikatapia.github.io
