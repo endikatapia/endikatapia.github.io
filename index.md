@@ -2,7 +2,7 @@ I am a Researcher at the [University of the Basque Country](https://www.ehu.eus/
 
 This website shows a brief synopsis of my research, a summary of my professional experience and ways to contact me. 
 
-My contact e-mail: endika.tapia -at- ehu.eus
+My contact e-mail: endika.tapia@ehu.eus
 
 ### Research
 
@@ -10,8 +10,7 @@ My main research area is parallel and distributed computing, with focus on the f
 - High performance computing
 - Scalable data processing systems
 - Cloud and edge computing
-- Heterogeneous and emerging architectures 
-- Energy efficient computing
+- Industrial communication protocols
 
 
 A list of publications is available in [Google Scholar]
@@ -31,4 +30,4 @@ A list of publications is available in [Google Scholar]
 
 
 
-You can find me in social networks like [Twitter], [LinkedIn]
+You can find me in [LinkedIn]
