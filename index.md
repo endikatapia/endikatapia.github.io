@@ -1,4 +1,4 @@
-I am a Researcher at the [University of the Basque Country](https://www.ehu.eus/en). I am based at the [School of Engineering in Bilbao](https://www.ehu.eus/en/web/bilboko-ingeniaritza-eskola).
+I am a Researcher at the Aeronautics Advanced Manufacturing Centre ([CFAA](https://cfaa.eus/) in Spanish), part of the [University of the Basque Country](https://www.ehu.eus/en)
 
 This website shows a brief synopsis of my research, a summary of my professional experience and ways to contact me. 
 
@@ -9,8 +9,9 @@ My contact e-mail: endika.tapia@ehu.eus
 My main research area is parallel and distributed computing, with focus on the following topics:
 - High performance computing
 - Scalable data processing systems
-- Cloud and edge computing
 - Industrial communication protocols
+- Cloud and edge computing
+
 
 
 A list of publications is available in [Google Scholar]
@@ -23,9 +24,8 @@ A list of publications is available in [Google Scholar]
 
 ### Education
 
-- **2015**: 
-- **2011**:  
-- **2010**:
+- **2021**: 
+
 ### Contact and Social Media
 
 
