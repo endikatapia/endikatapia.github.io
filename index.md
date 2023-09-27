@@ -20,7 +20,7 @@ A list of publications is available in [Google Scholar](https://scholar.google.e
 
 ### Education
 
-- **2021**: BSc in Degree in Computer Engineering of Management and Information Systems. University of the Basque Country, Bilbao (Spain).  
+- **2021**: BSc in Computer Engineering of Management and Information Systems. University of the Basque Country, Bilbao (Spain).  
 Thesis: _Digital twin prototype for real-time anomaly detection on machine tools_, advised by [Unai Lopez-Novoa](https://github.com/ulopeznovoa).
 
 ### Contact and Social Media
