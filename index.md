@@ -1,4 +1,4 @@
-I am a Researcher at the Aeronautics Advanced Manufacturing Centre ([CFAA](https://cfaa.eus/) in Spanish), part of the [University of the Basque Country](https://www.ehu.eus/en)
+I am a Researcher at the Aeronautics Advanced Manufacturing Centre ([CFAA](https://cfaa.eus/) in Spanish), part of the [University of the Basque Country](https://www.ehu.eus/en).
 
 This website shows a brief synopsis of my research, a summary of my professional experience and ways to contact me. 
 
@@ -12,11 +12,11 @@ My main research area is parallel and distributed computing, with focus on the f
 - Industrial communication protocols
 - Cloud and edge computing
   
-A list of publications is available in [Google Scholar](https://scholar.google.es/citations?user=WET0TD4AAAAJ&hl=es&oi=ao)
+A list of publications is available in [Google Scholar](https://scholar.google.es/citations?user=WET0TD4AAAAJ&hl=es&oi=ao).
 
 ### Work Experience
 
-- **2021-**___Now___: Research Software Engineer, Aeronautics Advanced Manufacturing Centre ([CFAA](https://cfaa.eus/))
+- **2021-**___Now___: Research Software Engineer, Aeronautics Advanced Manufacturing Centre ([CFAA](https://cfaa.eus/)).
 
 ### Education
 
@@ -25,4 +25,4 @@ Thesis: _Digital twin prototype for real-time anomaly detection on machine tools
 
 ### Contact and Social Media
 
-You can find me in [LinkedIn](https://es.linkedin.com/in/endika-tapia-fernandez-558975232)
+You can find me in [LinkedIn](https://es.linkedin.com/in/endika-tapia-fernandez-558975232).
